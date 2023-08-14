@@ -4,7 +4,7 @@
 ## Back-end Development Year 2
 ### Database Technology Module 3 Lesson 4
 
-Startup code for Noroff back-end development 2 - DBT Module 3 Lesson 4.
+Completed code for Noroff back-end development 2 - DBT Module 3 Lesson 4.
 
 Instruction for the course assignment is in the LMS (Moodle) system of Noroff.
 [https://lms.noroff.no](https://lms.noroff.no)
